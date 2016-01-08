@@ -48,3 +48,5 @@ Temporary Items
 
 # User should store Visual Studio project files in this folder
 VSProject
+*.xml
+*.pyc
